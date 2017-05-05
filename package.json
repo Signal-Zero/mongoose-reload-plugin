@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-reload-plugin",
+  "version": "1.0.0",
+  "description": ".reload() shortcut function on mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Signal-Zero/mongoose-reload-plugin.git"
+  },
+  "keywords": [
+    "mongoose",
+    "reload",
+    "plugin"
+  ],
+  "author": "Signal Zero, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Signal-Zero/mongoose-reload-plugin/issues"
+  },
+  "homepage": "https://github.com/Signal-Zero/mongoose-reload-plugin#readme",
+  "dependencies": {
+    "mongoose": "^4.9.7"
+  }
+}
