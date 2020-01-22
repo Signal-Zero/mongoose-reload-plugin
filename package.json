@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Signal-Zero/mongoose-reload-plugin#readme",
   "dependencies": {
-    "mongoose": "^4.9.7"
+    "mongoose": "^5.7.5"
   }
 }
